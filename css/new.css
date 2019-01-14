@@ -1,0 +1,248 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+body{
+	/*background: red;*/
+}
+/*登录*/
+.Login{
+	height: 100px;
+	margin-top: 30px;
+}
+.sphone{
+	display: block;
+	height: 50px;
+	width: 50px;
+	font-size: 1.7em;
+	color: #fff;
+	background-color:#fd9f3e;
+	text-align: center;
+	padding:14px ;
+
+}
+.sphonenum{
+	font-size: 23px;
+}
+#Curabitur{
+	text-decoration: none;
+	font-size: 55px;
+	color: #08538c;
+	margin-left: 200px;
+	font-family:forte;
+	
+}
+#login{
+	display: inline-block;
+	height: 35px;
+	width: 70px;
+	background-color:#08538c;
+	text-decoration: none;
+	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
+	margin-left: 130px;
+}
+.Shoping{
+	margin-left: 100px;
+	
+}
+.Shoping span{
+	font-size: 18px;
+}
+/*登录*/
+/*菜单*/
+.banner{
+	height: 664px;
+	width: 100%;
+	background: url(../img/banner1.jpg) no-repeat;
+	background-size: 100%;
+}
+/*.Opci{
+	height: 664px;
+	width: 100%;
+	background: black;
+	opacity: 0.3;
+	float: left;
+}*/
+.menu{
+	
+	position: relative;
+	top: 59px;
+    left: 56px;
+}
+.munul{
+	list-style: none;
+	float: left;
+	margin-left: 48px;
+}
+.menua{
+	text-decoration: none;
+	color: #FFFFFF;
+	font-size: 22px;
+}
+.contant{
+	width: 450px;
+}
+.contant span{
+	font-size: 50px;
+	color: white;
+	font-family: "felix titling";
+	position: relative;
+	top: 262px;
+    left: 100px;
+}
+.contant p{
+	font-size: 25px;
+	color: white;
+	position: relative;
+	top: 300px;
+	left: 100px;
+	font-family: "黑体";
+}
+.bannerbottom{
+	height: 91px;
+	background:#fd9f3e;
+	width: 100%;
+	position: relative;
+	top: 386px;
+}
+.InpuSer{
+	line-height: 90px;
+	
+}
+.BSp{
+	font-size: 24px;
+	margin-left: 60px;
+	font-family: forte;
+}
+.BSIpu{
+	height: 35px;
+	width: 200px;
+	border: none;
+	font-size: 18px;
+}
+#submit{
+	text-decoration: none;
+	display:inline-block;
+	height: 35px;
+	background: rgb(8, 83, 140);
+	width: 70px;
+	text-align: center;
+	line-height: 35px;
+	color:#FFFFFF;
+	margin-left: 20px;
+}
+/*菜单*/
+/*Today HOt Offer*/
+.HotOffer{
+	height: 580px;
+	width: 100%;
+}
+.MiddowFont{
+	text-align: center;
+	position: relative;
+	top: 127px;
+}
+.MF1{
+	font-size: 3em;
+    text-transform: capitalize;
+    font-family:forte;
+    color: #08538c;
+}
+.MF2{
+	font-size: 1.2em;
+    color: #555;
+    padding: 0.5em 0;
+}
+.pict{
+	position: relative;
+	top: 148px;
+	left: -17px;
+}
+.pict img{
+	height: 396px;
+	width: 337px;
+}
+/*Today HOt Offer*/
+/*Our Menu*/
+.OurMenu{
+	height: 609px;
+	width: 100%;
+	/*background: pink;*/
+}
+.Menuprice{
+	position: relative;
+	top: 200px;
+	
+}
+.Menuprice p{
+	font-size: 20px;
+	color: #5E5E5E;
+	font-family: "agency fb";
+	padding: 20px;
+}
+.Menuprice p span{
+	margin-left: 55px;
+}
+/*Our Menu*/
+/*What Makes us different*/
+.UsDifferent{
+	height: 838px;
+	/*background: pink;*/
+}
+.desserts{
+	height: 40px;
+	width: 100%;
+	border-bottom: 1px solid #CCCCCC;
+	border-right:2px solid #CCCCCC;
+	background-color: #E6E6E6;
+	
+}
+.mDESS1{
+	margin-top: 173px;
+}
+.mDESS2{
+	margin-top: 278px;
+}
+.desserts h1{
+	color: rgb(253, 159, 62);
+	font-family: "edwardian script itc";
+	font-size: 30px;
+	line-height: 42px;
+}
+.DifImg img{
+	margin-top: 20px;
+	height: 247px;
+	width: 247px;
+	margin-bottom: 20px;
+}
+/*What Makes us different*/
+/*about*/
+.About{
+	height:304px ;
+	background-color: #eee;
+}
+.sabout h1{
+	margin-top: 76px;
+	font-size: 40px;
+	font-family: forte;
+	color:#08538c;
+	text-align: center;
+}
+.sabout p{
+	font-size: 1em;
+    line-height: 1.8em;
+    color: #999;
+	
+}
+/*about*/
+.copy{
+	height: 60px;
+	text-align: center;
+}
+.copy span{
+	
+	line-height: 95px;
+}
